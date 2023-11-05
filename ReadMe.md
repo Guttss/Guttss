@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🔭 Sou estudante do curso de Ciências da Computação<br>👯 Estou a procura de um bom Estagio <br>🤝 Buscando sempre melhorar minhas habilidades<br><br>
 
 
