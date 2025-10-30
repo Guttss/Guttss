@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Sou estudante do curso de Ciências da Computação<br>💻 Estou a procura de um bom Estagio <br>🤝 Buscando sempre melhorar minhas skills<br><br>
+🔭 Graduando em Ciência da Computação<br>💻 Densenvolvedor de Software com foco em Java <br>🤝 Buscando sempre melhorar minhas skills<br><br>
 
 
 ## 🌐 Rede Sociais:
