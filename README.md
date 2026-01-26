@@ -71,7 +71,7 @@ Me chamo Gustavo Henrique Ferreira Santos, tenho habilidades em linguagens de pr
 ### 📊 Estatísticas
 
   <img 
-	  src="https://github-readme-stats.vercel.app/api?username=Guttss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+	  src="https://github-readme-stats.vercel.app/api?username=Guttss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&card_width=500"
 	  alt="GitHub Stats" 
 	  height="180" 
 	/>
