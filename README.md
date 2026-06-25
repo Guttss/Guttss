@@ -1,6 +1,6 @@
 <h2 align="center">👨🏾‍💻 Gustavo Santos</h2> 
 
-<h3 align="center"> Deselvolvedor Back-End </h3>
+<h3 align="center"> Deselvolvedor de Software</h3>
 <p align="center">
 	Me chamo Gustavo Henrique Ferreira Santos, tenho habilidades em linguagens de programação como Java, Python, SQL, Git etc, com foco em 			integrar teoria e prática 	para resolver problemas complexos de forma eficiente.
 </p>
