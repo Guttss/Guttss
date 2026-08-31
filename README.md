@@ -10,7 +10,7 @@
 <h3 align="center"> <strong>🤖 Linguagens e Tecnologias</strong> </h3>
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=java,python,c,spring,mysql,mongodb,git&theme=dark"/>
+	<img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql,python,c,mongodb,git,postman&theme=dark"/>
 </p>
 
 ---
