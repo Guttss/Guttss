@@ -19,7 +19,8 @@ Minha experiência técnica é centralizada no ecossistema Java (Spring Boot) e 
 <h3 align="center"> <strong>Estatísticas</strong> </h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Guttss&theme=tokyonight&hide_border=true" />
+	<img src="https://raw.githubusercontent.com/Guttss/github-profile-status/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/Guttss/github-profile-status/master/generated/languages.svg#gh-dark-mode-only" />
 </div>
 
 <br/>
