@@ -91,7 +91,7 @@ Utilizo **IA como ferramenta estratégica** no meu fluxo de trabalho: ela aceler
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph-nine-sable.vercel.app/graph?username=Guttss&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph-by2thall6-gustavodev2.vercel.app/graph?username=Guttss&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
