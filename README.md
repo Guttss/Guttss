@@ -84,17 +84,12 @@ Utilizo **IA como ferramenta estratégica** no meu fluxo de trabalho: ela aceler
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Guttss/github-profile-status/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/Guttss/github-profile-status/master/generated/languages.svg#gh-dark-mode-only" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph-by2thall6-gustavodev2.vercel.app/graph?username=Guttss&theme=tokyo-night&hide_border=true" />
-</div>
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Guttss&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Guttss&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=transparent)
 
 ---
+
+</div>
 
 ## 🤝 Vamos conversar?
 
